@@ -52,14 +52,14 @@ Identify and exploit SQL injection vulnerabilities using DVWA. This project cove
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/ethical-hacking-projects-for-beginners.git
-    cd ethical-hacking-projects-for-beginners
+    git clone https://github.com/yourusername/Ethical-Hacking-Projects.git
+    cd Ethical-Hacking-Projects
     ```
 
 2. **Navigate to Each Project Directory:**
     Each project has its own markdown file with detailed instructions. For example:
     ```bash
-    cd project-1-scanning-and-enumerating-a-local-network-with-nmap
+    cd project-1-scanning-using-nmap
     ```
 
 3. **Follow the Instructions:**
@@ -67,13 +67,12 @@ Identify and exploit SQL injection vulnerabilities using DVWA. This project cove
 
 ## About Me
 
-Hi, I'm Anuj Priyadarshi, attended at Rungta College of Engineering and Technology pursuing my B.Tech CSE(AIML) currently in 4th Semester. 
+Hi, I'm Anuj Priyadarshi, attended at Rungta College of Engineering and Technology pursuing my B.Tech CSE(AIML) degree and currently I am in 4th Semester. 
 
 ## Connect with Me
 
 - **LinkedIn**: [Anuj Priyadarshi](https://www.linkedin.com/in/itsmeanuj311)
 - **Twitter**: [Anuj Priyadarshi](https://twitter.com/itsmeanuj311)
-- **YouTube Channel**: [Rajneesh Gupta](https://www.youtube.com/channel/rajneeshcyber)
 
 Feel free to connect with me on any of these platforms!
 
