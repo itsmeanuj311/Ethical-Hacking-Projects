@@ -1,4 +1,4 @@
-# Ethical Hacking Projects for Beginners
+# Ethical Hacking Project
 
 # 🛡️ Network Penetration Testing with Real-World Exploits and Security Remediation
 
