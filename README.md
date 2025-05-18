@@ -24,7 +24,7 @@ This project simulates real-world network attacks and defense strategies using K
 
 ### 🛠️ Tools Used
 - `nmap` – Port, OS, and service version scanning
-- `Metasploit` – Exploitation
+- `Metasploit Framework` – Exploitation
 - `John the Ripper` – Password hash cracking
 - Linux built-in commands – user management and enumeration
 
