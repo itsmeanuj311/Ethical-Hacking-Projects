@@ -17,10 +17,9 @@ This project simulates real-world network attacks and defense strategies using K
 ---
 
 ## 📂 Project Contents
-
-- 📄 `Polished_CEH_Project_Swapnil.pdf` — Full report with screenshots and command outputs  
-- 📄 `CEH_Project_Swapnil.pdf` — Full report with screenshots and command outputs  
-- 🖼️ `Screenshots/` — Real-time evidence of network attacks and defenses  
+ 
+- 📄 `CEH_Project_AP.pdf` — Full report with screenshots and command outputs  
+- 🖼️ `Screenshots/` — Real-time evidence of network attacks and defenses(It may be uploaded later  
 
 ---
 
